@@ -6,9 +6,7 @@
   
   Aqui compartilho algumas práticas, exercícios que realizo no meu processo de aprendizagem.
  
-
-
-![image](https://github.com/SibeleTatiana/WebAggregat/assets/147422002/aa78d553-285e-4ccd-b44f-6f7916a72adb)
+![Best_Site_Aggregat](https://github.com/user-attachments/assets/afa180e8-6203-4d7b-8660-c0c6bf81ae83)
 
 
 
