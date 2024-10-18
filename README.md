@@ -1,4 +1,7 @@
-   ![Imagem do WhatsApp de 2024-10-17 à(s) 22 03 01_8bfb353d](https://github.com/user-attachments/assets/cd52fb5d-f480-4d1b-b1c3-6a97b7834415)
+![Imagem do WhatsApp de 2024-10-17 à(s) 22 17 56_63465b80](https://github.com/user-attachments/assets/cc7cb125-bb33-4c48-82df-388cd94fd2d7)
+
+
+
 
  www.aggregatescoladedanca.com.br
 
