@@ -1,14 +1,4 @@
-  Meu nome é Sibele Tatiana e esse é meu primeiro repositório.
-  
-  Trabalhei como bailarina clássica durante alguns anos, tenho em essência a arte de me expressar através da dança e sou uma APAIXONADA por DADOS.
-  
-  Atualmente curso a faculdade de Ciência de dados, e pretendo trabalhar como Data Scientist.
-  
-  Aqui compartilho algumas práticas, exercícios que realizo no meu processo de aprendizagem.
- 
-![Best_Site_Aggregat](https://github.com/user-attachments/assets/afa180e8-6203-4d7b-8660-c0c6bf81ae83)
+   ![Imagem do WhatsApp de 2024-10-17 à(s) 22 03 01_8bfb353d](https://github.com/user-attachments/assets/cd52fb5d-f480-4d1b-b1c3-6a97b7834415)
 
-
-
-www.aggregatescoladedanca.com.br
+ www.aggregatescoladedanca.com.br
 
