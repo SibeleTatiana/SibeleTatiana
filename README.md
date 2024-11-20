@@ -2,7 +2,7 @@ Meu nome é Sibele Tatiana e este é meu primeiro repositório.
 
 Além de ser APAIXONADA POR DADOS, também tenho paixão por ballet clássico.
 
-Atualmente curso Data Science e pretendo oferecer soluções sustetáveis de maneira inteligente, utilizando todo o conhecimento que venho adquirindo através de meus estudos.
+Atualmente curso Data Science e pretendo oferecer soluções sustentáveis de maneira inteligente, utilizando todo o conhecimento que venho adquirindo através de meus estudos.
 
 Disponibilizo aqui alguns de meus projetos, convidando você para fazer sua contribuição.
 
