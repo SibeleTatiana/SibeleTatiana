@@ -6,6 +6,6 @@ Atualmente curso Data Science e pretendo oferecer soluções sustentáveis de ma
 
 Disponibilizo aqui alguns de meus projetos, convidando você para fazer sua contribuição.
 
-Seja bem vindo e fique a vontade para contribuir.
+Seja bem vindo e sinta-se a vontade para contribuir.
 
 ![Imagem do WhatsApp de 2024-10-25 à(s) 17 39 12_89d01ce6](https://github.com/user-attachments/assets/3842120e-a7f2-491b-b8a4-339c2e89b761)
